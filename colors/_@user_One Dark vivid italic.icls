@@ -4,17 +4,10 @@
     <property name="created">2020-07-07T08:53:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-07-07T11:22:21</property>
+    <property name="modified">2020-12-18T18:03:04</property>
     <property name="originalScheme">One Dark vivid italic</property>
   </metaInfo>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Meslo LG S DZ for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
-  <console-font>
-    <option name="EDITOR_FONT_NAME" value="Meslo LG S for Powerline" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
-  </console-font>
+  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
   <option name="CONSOLE_LIGATURES" value="true" />
   <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
@@ -224,11 +217,6 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="CONSOLE_BLACK_OUTPUT">
-      <value>
-        <option name="FOREGROUND" value="0" />
-      </value>
-    </option>
     <option name="CONSOLE_BLUE_BRIGHT_OUTPUT">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -427,7 +415,7 @@
         <option name="FOREGROUND" value="2bbac5" />
       </value>
     </option>
-    <option name="Class" baseAttributes="" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Clojure Atom">
       <value>
         <option name="FOREGROUND" value="d55fde" />
@@ -1013,7 +1001,6 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="JADE_JS_BLOCK" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="JADE_STATEMENTS">
       <value>
         <option name="FOREGROUND" value="d55fde" />
@@ -1360,7 +1347,9 @@
     </option>
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
+        <option name="FOREGROUND" value="f9ff48" />
         <option name="BACKGROUND" value="515a6b" />
+        <option name="FONT_TYPE" value="1" />
       </value>
     </option>
     <option name="MESSAGE_ARGUMENT">
@@ -1519,7 +1508,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
     <option name="PROPERTIES.VALID_STRING_ESCAPE">
       <value>
         <option name="FOREGROUND" value="2bbac5" />
@@ -1960,7 +1949,7 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
     <option name="STATIC_METHOD_IMPORTED_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="61afef" />
@@ -1991,7 +1980,7 @@
         <option name="FONT_TYPE" value="3" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="d19a66" />
