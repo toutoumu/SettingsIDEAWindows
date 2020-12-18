@@ -4,12 +4,19 @@
     <property name="created">2020-07-07T08:53:03</property>
     <property name="ide">WebStorm</property>
     <property name="ideVersion">2020.1.2.0.0</property>
-    <property name="modified">2020-12-18T18:03:04</property>
+    <property name="modified">2020-12-18T18:07:11</property>
     <property name="originalScheme">One Dark vivid italic</property>
   </metaInfo>
-  <option name="CONSOLE_FONT_NAME" value="JetBrains Mono" />
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="JetBrains Mono" />
+    <option name="EDITOR_FONT_SIZE" value="14" />
+  </console-font>
+  <console-font>
+    <option name="EDITOR_FONT_NAME" value="Fira Code" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </console-font>
   <option name="CONSOLE_LIGATURES" value="true" />
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
+  <option name="CONSOLE_LINE_SPACING" value="1.1" />
   <colors>
     <option name="ADDED_LINES_COLOR" value="89ca78" />
     <option name="ANNOTATIONS_COLOR" value="a0a7b4" />
@@ -919,6 +926,9 @@
         <option name="FOREGROUND" value="89ca78" />
       </value>
     </option>
+    <option name="HTML_CODE">
+      <value />
+    </option>
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="ef596f" />
@@ -1107,13 +1117,8 @@
         <option name="FOREGROUND" value="d19a66" />
       </value>
     </option>
-    <option name="KOTLIN_FUNCTION_LITERAL_BRACES_AND_ARROW">
-      <value />
-    </option>
     <option name="KOTLIN_LABEL">
-      <value>
-        <option name="FONT_TYPE" value="1" />
-      </value>
+      <value />
     </option>
     <option name="KOTLIN_MUTABLE_VARIABLE">
       <value>
@@ -1348,7 +1353,7 @@
     <option name="MATCHED_BRACE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="f9ff48" />
-        <option name="BACKGROUND" value="515a6b" />
+        <option name="BACKGROUND" value="3b514d" />
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
